@@ -1,6 +1,6 @@
 # Face Detection and Extraction done using CNN YOLOv3 Model.
 
-![Account ownership flow](https://user-images.githubusercontent.com/76071184/178530738-84a1a4af-208e-4197-9b49-51fd47ee7e79.png)
+![image](https://user-images.githubusercontent.com/76071184/178650716-2e61e3fa-1580-4a5b-9fbc-7c7d12f0d47c.png)
 
 ## Process of the Code:
 
